@@ -1,0 +1,139 @@
+/*INICIO LIMPANDO FORMATAÇÃO PADRÃO*/
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    font-size: 1em;
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    background-color: #e7e7e7;
+}
+hr
+{
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+/*FIM LIMPANDO FORMATAÇÃO PADRÃO*/ 
+
+/*INICIO FORMATAÇÃO GERAL*/
+h1
+{
+    color: black;
+    font-size: 2.5em;
+}
+h2
+{
+    color: black;
+}
+h3
+{
+    color: #565656;
+    background-color: #CCC;
+    padding: 5px;
+}
+/*FIM FORMATAÇÃO GERAL*/
+
+/*INICIO CABEÇALHO*/
+#area-cabecalho
+{
+    background-color: rgb(105, 105, 204);
+    text-align: center;
+    padding: 5px;
+}
+#area-logo, #area-menu
+{
+    padding: 15px;
+}
+
+.logo-branco
+{
+    color: white;
+}
+a
+{
+    text-decoration: none;
+}
+a:link, a:visited
+{
+    color:  rgb(105, 105, 204);
+}
+a:hover
+{
+    text-decoration: underline;
+    background-color:  rgb(105, 105, 204);
+    color: white;
+}
+#area-cabecalho a:link,#area-cabecalho a:visited
+{
+    padding: 8px 12px;
+    color: white;
+}
+#area-cabecalho a:hover
+{
+    color: rgb(105, 105, 204);;
+    background-color: white;
+    text-decoration: none;
+}
+/*FIM CABEÇALHO*/
+
+/*INICIO CONTEUDO*/
+#area-principal
+{
+    width: 920px;
+    margin: 0 auto;
+    padding: 15px;
+}
+#area-postagens
+{
+    width: 660px;
+    float: left;
+}
+#area-lateral
+{
+    width: 240px;
+    float: right;
+}
+#area-rodape
+{
+    clear: both;                /*Remove o fluxo dos objetos flutuantes*/
+    width: 920px; 
+    background-color: #CCC;
+    text-align: center;
+    padding: 15px;
+}
+.postagem
+{
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+.data-postagens
+{
+    font-size: 0.8em;
+    border-bottom: 1px solid #F4F4F4;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    display: block;
+}
+
+/*FIM CONTEUDO*/
+
+/*INICIO CONTEUDO LATERAL POSTAGENS*/
+.conteudo-lateral
+{
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.postagem-lateral
+{
+    font-size: 0.8em;
+    padding: 5px;
+}
+/*FIM CONTEUDO LATERAL POSTAGENS*/
+
+/*INICIO CONTEUDO LATERAL CATEGORIAS*/
+/*FIM CONTEUDO LATERAL CATEGORIAS*/
+
