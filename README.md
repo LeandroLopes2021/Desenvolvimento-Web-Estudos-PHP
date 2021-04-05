@@ -6,5 +6,4 @@ Site desenvolvido para aprimorar conhecimentos em HTML5.
 Site desenvolvido para aprimorar conhecimentos em CSS3.
 
 3 - Site de Noticias
-Site desenvolvido para aprimorar conhecimentos em CSS3.
-heranca, estilizar listas e menus, etc.
+Site desenvolvido para aprimorar conhecimentos em CSS3 Avançado.
