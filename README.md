@@ -4,3 +4,7 @@ Site desenvolvido para aprimorar conhecimentos em HTML5.
 
 2 - TecGamer
 Site desenvolvido para aprimorar conhecimentos em CSS3.
+
+3 - Site de Noticias
+Site desenvolvido para aprimorar conhecimentos em CSS3.
+herança, estilizar listas, estilizar menus , etc
