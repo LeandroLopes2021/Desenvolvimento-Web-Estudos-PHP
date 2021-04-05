@@ -7,4 +7,4 @@ Site desenvolvido para aprimorar conhecimentos em CSS3.
 
 3 - Site de Noticias
 Site desenvolvido para aprimorar conhecimentos em CSS3.
-herança, estilizar listas, estilizar menus , etc
+heranca, estilizar listas e menus, etc.
