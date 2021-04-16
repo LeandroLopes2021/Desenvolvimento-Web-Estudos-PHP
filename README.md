@@ -12,4 +12,7 @@ Site desenvolvido para aprimorar conhecimentos em CSS3 Avançado.
 Site  desenvolvido para aprimorar conhecimentos em Layout Liquido.
 
 5 - Parallax 
-Site desenvolvido para praticar conhecimentos no efeito parallac com CSS3.
+Site desenvolvido para praticar conhecimentos no efeito parallax com CSS3.
+
+6 - Finans
+Site desenvolvido para praticar conhecimentos em Bootstrap.
