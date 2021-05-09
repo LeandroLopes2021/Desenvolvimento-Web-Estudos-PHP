@@ -25,3 +25,6 @@ App desenvolvido para praticar conhecimentos em Javascript.
 
 9 - Orçamento Pessoal
 App desenvolvido para praticar conhecimentos em ES6
+
+10 - App Help Desk
+app desenvolvido para praticar conhecimentos em PHP, cliente/servidor, segurança no back-end e controle de usuarios.
