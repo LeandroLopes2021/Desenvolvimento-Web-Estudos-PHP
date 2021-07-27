@@ -5,5 +5,5 @@
 
 
  
-#TECNOLOGIAS USADAS
+## Tecnologias Usadas
 - CSS3 - HTML5 - Bootstrap - Javascript - ECMAScript6 - PHP - Ajax - MySql
